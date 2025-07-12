@@ -1,7 +1,8 @@
-SE UTILIZO PYTEST Y MOCKITO / INGRESAR A LA CARPETA TEST PARA REALIZAR LOS MISMOS
-
 
 # CJohnnyx-Ing.Software_Pilay_Cambisaca_Gonzales
+
+SE UTILIZO PYTEST Y MOCKITO / INGRESAR A LA CARPETA TEST PARA REALIZAR LOS MISMOS
+
 Estudiantes: Johnny Cambisaca, Marvin Pilay, George Gonzales.
 
 Frameworks: FastAPI realizado por -> Johnny Cambisaca
