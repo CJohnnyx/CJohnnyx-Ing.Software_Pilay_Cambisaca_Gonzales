@@ -4,7 +4,9 @@ fastapi
 uvicorn[standard]
 sqlalchemy
 pydantic
-psycopg2-binary  
 python-jose[cryptography]
 passlib[bcrypt]
-
+pytest
+pytest-cov
+mockito
+#instalar pip install -r requirements.txt
