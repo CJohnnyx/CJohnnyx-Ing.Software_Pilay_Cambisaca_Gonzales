@@ -1,5 +1,5 @@
 
-# CJohnnyx-Ing.Software_Pilay_Cambisaca_Gonzales
+# CJohnnyx-Ing.Software_Pilay_Cambisaca_Gonzalez
 
 SE UTILIZO PYTEST Y MOCKITO / INGRESAR A LA CARPETA TEST PARA REALIZAR LOS MISMOS
 
