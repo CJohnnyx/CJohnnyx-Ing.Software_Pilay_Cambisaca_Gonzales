@@ -1,3 +1,6 @@
+SE UTILIZO PYTEST Y MOCKITO / INGRESAR A LA CARPETA TEST PARA REALIZAR LOS MISMOS
+
+
 # CJohnnyx-Ing.Software_Pilay_Cambisaca_Gonzales
 Estudiantes: Johnny Cambisaca, Marvin Pilay, George Gonzales.
 
